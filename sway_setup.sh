@@ -9,6 +9,8 @@ exit
 
 sudo apt install
 sway
+curl
+wget
 vim
 wayland_protocols
 wayvnc
