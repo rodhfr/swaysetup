@@ -1,3 +1,13 @@
+# save whoami to file
+
+su - 
+#type password
+apt install sudo
+#take the whoami from file and use here 
+groupadd $TAKE_USER sudo
+exit
+
+sudo apt install
 sway
 vim
 wayland_protocols
@@ -14,3 +24,8 @@ flatpak
 # port = 5901
 
 git
+
+
+
+sudo apt remove
+cups
